@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="44501" started-at="2022-07-17T04:35:27 BST" finished-at="2022-07-17T04:36:12 BST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="44501" started-at="2022-07-17T04:35:27 BST" finished-at="2022-07-17T04:36:12 BST">
+      <class name="bookingFlight.HomePage">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:bookingFlight.HomePage@7ce6a65d]" name="initialize" is-config="true" duration-ms="5121" started-at="2022-07-17T04:35:27 BST" finished-at="2022-07-17T04:35:32 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="frontPageNavigation()[pri:0, instance:bookingFlight.HomePage@7ce6a65d]" name="frontPageNavigation" duration-ms="35184" started-at="2022-07-17T04:35:32 BST" finished-at="2022-07-17T04:36:08 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- frontPageNavigation -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:bookingFlight.HomePage@7ce6a65d]" name="teardown" is-config="true" duration-ms="4147" started-at="2022-07-17T04:36:08 BST" finished-at="2022-07-17T04:36:12 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- bookingFlight.HomePage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
